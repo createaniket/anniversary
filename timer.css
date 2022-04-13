@@ -1,0 +1,114 @@
+body{
+
+   background-color: rgb(53, 50, 50);
+}
+
+
+
+.Wish{
+
+    font-family: 'Baloo Bhaijaan 2', cursive;
+font-family: 'Caveat', cursive;
+font-size:178%;
+
+color: aqua;
+display: flex;
+justify-content: center;
+
+}
+
+
+.Hrr{
+
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Pacifico', cursive;
+    font-size:191%;
+
+    color: palevioletred;
+
+
+    display: flex;
+justify-content: center;
+}
+
+.din{
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Pacifico', cursive;
+    font-size:191%;
+
+}
+
+
+.samay{
+
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Pacifico', cursive;
+    font-size:191%;
+    margin: 4vh;
+}
+
+
+.Mnt{
+
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Pacifico', cursive;
+    font-size:191%;
+    margin: 4vh;
+}
+
+.sexcond{
+
+
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Pacifico', cursive;
+    font-size:191%;
+}
+
+.countup{
+margin: 4vh;
+padding: 4vh;
+
+    display: flex;
+
+    justify-content: center;
+    color: red;
+
+}
+
+
+.pic{
+
+    display: flex;
+    justify-content: space-between;
+
+    margin-top: 50vh;
+    color:aliceblue ;
+}
+
+.imgee1{
+
+ margin-left: 10vh;
+ /* transform: translateX(15vh) */
+ 
+    margin-top: 25vh;
+
+
+    font-family: 'Baloo Bhaijaan 2', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Pacifico', cursive;
+}
+
+
+.img2{
+
+    margin-right: 10vh;
+
+    font-family: 'Baloo Bhaijaan 2', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Pacifico', cursive;
+}
